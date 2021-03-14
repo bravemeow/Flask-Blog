@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Recursive&display=swap');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Recursive', sans-serif;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+a, a:hover {
+    color: inherit;
+    text-decoration: inherit;
+}
+.nav-link {
+    border-radius: 1rem;
+    padding: 0rem 1rem;
+}
+.nav-link:hover {
+    background-color: rgb(65 65 65 / 75%);
+}
+@media (min-width: 800px) {
+    .nav-link{
+        font-size: 2rem;
+    }
+}
