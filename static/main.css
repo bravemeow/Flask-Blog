@@ -3,7 +3,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-family: 'Recursive', sans-serif;
-    background-color: #000000;
+    background-color: #090909;
     color: #ffffff;
 }
 a, a:hover {
@@ -73,6 +73,9 @@ a, a:hover {
 }
 
 /* main */
+#intro {
+    margin-top: 3rem;
+}
 .intro {
-    margin-top: 10rem;
+    margin-top: 5rem;
 }
